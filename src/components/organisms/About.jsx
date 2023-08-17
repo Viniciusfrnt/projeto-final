@@ -108,7 +108,7 @@ export default function About() {
 
         <div className="bg-gray-900/70 rounded-md p-3 float-right mt-4 transition ease-in-out delay-150 hover:-translate-y-3 hover:scale-1 duration-300">
           <h3 className="text-xl font-bold text-emerald-400">Maxwell Leal</h3>
-          <p className="text-sm text-gray-200 italic">“Quando entrei no mercado de trabalho, que foi graças a conexões que realizei dentro do ecossistema da Ulearn, também percebi que o conhecimento técnico que nos foi passado é realmente de excelente qualidade.”</p>
+          <p className="text-sm text-gray-200 italic">“Sou da turma 12 e posso dizer, com certeza, que o conteúdo é muito completo, é uma formação de excelência! Em 1 mês se aprende mais coisa do que em um semestre em cursos tradicionais, é realmente enriquecedor!”.</p>
           <span className="font-bold text-emerald-300 text-sm">Aluno Ulearn</span>
         </div>
       </div>
